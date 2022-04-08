@@ -1,7 +1,7 @@
 ## Hi! I'm Heber Magno 
 
 - 👨‍🎓 I'm a Bachelor of Computer Engineering!
-- 👨‍💻 Currently studies Front-End technologies!
+- 👨‍💻 Currently studing web developement technologies!
 - 💻 I intend to be a Fullstack Developer
 
 <div>
