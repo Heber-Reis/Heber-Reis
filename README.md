@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm a Bachelor of Computer Engineering!
 - 👨‍💻 Currently studing web developement technologies!
-- 💻 I intend to be a Fullstack Developer
+- 💻 I'm a Fullstack Developer
 
 <div>
   <a href="github.com/Heber-Reis">
@@ -17,6 +17,7 @@
   <img align="center" alt="Heber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Heber-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Heber-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Heber-Adonis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
  </div>
   
   ##
